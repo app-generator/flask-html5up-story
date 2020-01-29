@@ -1,7 +1,10 @@
-﻿# [Flask Html5up Story](https://appseed.us/apps/flask-apps/flask-html5up-story)
+# [Flask Html5up Story](https://appseed.us/apps/flask-apps/flask-html5up-story)
 
-Unopinionated Flask Boilerplate generated with [automation tools](https://github.com/app-generator/developer-tools) by **[AppSeed App Generator](https://appseed.us/app-generator)**
+**Open-Source Web App** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
+### App Features:
+
+- **Commercial License**
 - Design kit: [HTML5up Story](https://html5up.net/story)
 - Authentication (login, register)
 - SQLite database managed by SQLAlchemy ORM,
@@ -48,4 +51,4 @@ $ flask run
 <br />
 
 ---
-[Flask Html5up Story](https://appseed.us/apps/flask-apps/flask-html5up-story) - provided by **AppSeed**
+[Flask Html5up Story](https://appseed.us/apps/flask-apps/flask-html5up-story) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
